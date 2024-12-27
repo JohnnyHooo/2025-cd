@@ -190,6 +190,7 @@ function showQRCode() {
                 <h1 style="margin-bottom: 1.5rem;">恭喜你完成报名！</h1>
                 <h2 style="color: #ff69b4; font-size: 1.5rem;">
                     我宣誓2025在成都的空瓶子Livehouse跨年！
+    </br>并且自愿交纳200元押金
                 </h2>
             </div>
             <img src="qr_code.jpg" 
